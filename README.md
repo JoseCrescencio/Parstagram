@@ -50,4 +50,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<http://g.recordit.co/XqOqsQz3H6.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
+<img src='http://g.recordit.co/XqOqsQz3H6.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
